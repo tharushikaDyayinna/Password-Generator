@@ -4,6 +4,7 @@
 
 The Password Generator is a user-friendly Python application that utilizes Tkinter, a GUI library, to generate random passwords based on the length specified by the user. This tool provides a convenient and secure way to create strong and unique passwords for various purposes.
 
+![Screenshot (576)](https://github.com/user-attachments/assets/1c3f5365-d3c8-4a0d-b091-fef7d5704181)
 
 ## Features
 
